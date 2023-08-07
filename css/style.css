@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
 html {
     box-sizing: border-box;
 }
@@ -9,9 +9,9 @@ html {
     width: 1440px;
     height: 102px;
 }
-.container {
+.header__navigation {
 }
-a {
+.navigation__signup {
     text-decoration: none;
     color: black;
     font-family: "Raleway", Arial, Helvetica, sans-serif;
@@ -19,15 +19,13 @@ a {
     border-bottom: 5px solid #4BA87D;
     text-decoration: line, #4BA87D;
 }
-.header__menu {
-}
 .header__logo {
     color: black;
     font-family: "Raleway", Arial, Helvetica, sans-serif;
     font-size: 34px;
     
 }
-.header__button {
+.header__signup {
     border-style: none;
     color: white;
     font-family: Raleway, Arial, Helvetica, sans-serif;
@@ -42,8 +40,8 @@ a {
     width: 1088px;
 }
 .hero__leftside {
-    height: 317px;
-    width: 489px;
+    /* height: 317px;
+    width: 489px; */
 
 }
 .hero__photo {
@@ -95,4 +93,4 @@ a {
 .footer__rights {
 }
 .footer__links2 {
-}
+} */
