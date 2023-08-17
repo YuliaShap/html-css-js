@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@800&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  :root {
+    --ui-brand-color: #4BA87D;
+    --text-color: #000000;
+    --text-color-button: #FFFFFF;
+    --section-background-color: #F4F4F4;
+    --font-h: font-family: 'Playfair Display', serif;
+    --font-p: font-family: 'Raleway', sans-serif;
+
+  }
